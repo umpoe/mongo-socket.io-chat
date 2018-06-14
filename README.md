@@ -1,0 +1,2 @@
+# mongo-socket.io-chat
+This is a simple mongo-socket.io web-chat. The chat application is built following the tutorial on https://youtu.be/hrRue5Rt6Is.The two imprtant files here are the server.js and index.html. sever.js holds the communication function with the MongoDB for the application. While the index.html is the UI for the application. In the future I will be expandinding on these elements contained in the small project.
